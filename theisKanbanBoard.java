@@ -1,14 +1,3 @@
-/*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 4/21/2024
-
-Author: Dylan Theis
-Date: Spring 2024
-Class: CSC222
-Project: Final Assignment - Kanban Board/Task Management
-Description: User can create tasks and assign them different aspects
-
- */
 import java.io.*;
 import java.util.*;
 
